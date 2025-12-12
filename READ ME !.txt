@@ -1,0 +1,31 @@
+# Smart Parking Lot System
+**Course:** CIS153 – Data Structures  
+**Student:** Jeefthe Richeder Osne  
+**Language:** Java  
+
+## Project Description
+This project simulates a real-world parking lot system using core data structures.
+The goal is to manage cars entering and exiting a parking lot efficiently when space is limited.
+
+## Data Structures Used
+- **Stack**: Represents the parking lot (Last In, First Out).
+- **Queue**: Represents the waiting line when the parking lot is full (First In, First Out).
+- **ArrayList**: Used to support sorting operations.
+
+## Features
+- Add a car to the parking lot or waiting queue
+- Remove a specific car by ID
+- Automatically move waiting cars into parking
+- View parking lot and waiting queue
+- Sort parked cars by ID using Bubble Sort
+
+## Sorting Algorithm
+- **Bubble Sort** (implemented manually)
+- Sorts cars by their ID number
+
+## How to Run
+Run the `SmartParkingLot.java` file.
+Use the console menu to interact with the system.
+
+## GitHub
+This repository contains the full source code and project documentation.
